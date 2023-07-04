@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+.cleaning_github.ipynb.swp
 eggs/
 .eggs/
 lib/
