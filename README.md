@@ -4,3 +4,9 @@
 * append a dict of repos in list
 * store the list of repos in csv file using pandas
 > ### cleaning
+* remove the language with null value
+* remove duplicated rows
+* try to translate a large valume of data
+* identify the outliers
+* standardize formats
+* handle missing values
