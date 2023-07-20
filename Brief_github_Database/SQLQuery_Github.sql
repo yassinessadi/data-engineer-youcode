@@ -112,7 +112,7 @@ Select * from Commits
 
 
 -- delete 
---DELETE FROM Repositories;
+DELETE FROM Repositories;
 --DELETE FROM Contributors;
 --DELETE FROM Technologies;
 --DELETE FROM Licenses;
