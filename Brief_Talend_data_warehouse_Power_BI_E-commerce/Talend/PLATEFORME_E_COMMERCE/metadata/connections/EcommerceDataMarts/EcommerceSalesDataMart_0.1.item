@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_pN8SEGO_Ee6wvbS-9gFBOA" name="EcommerceSalesDataMart" id="_fJfKkGO_Ee6wvbS-9gFBOA" label="EcommerceSalesDataMart" dataPackage="_yBN1MGQlEe630N23V5q7Ow" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://LAPTOP-VQCV01FE:1433/Ecom_Sales_DM;" dbVersionString="JTDS" Port="1433" Username="" Password="" ServerName="LAPTOP-VQCV01FE" DatasourceName="" FileFieldName="" SID="Ecom_Sales_DM" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+    <taggedValue xmi:id="_pN8SEWO_Ee6wvbS-9gFBOA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_pOV6sGO_Ee6wvbS-9gFBOA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_pOWhwGO_Ee6wvbS-9gFBOA" tag="Status" value=""/>
+    <taggedValue xmi:id="_pOWhwWO_Ee6wvbS-9gFBOA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_pOWhwmO_Ee6wvbS-9gFBOA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_pOWhw2O_Ee6wvbS-9gFBOA" tag="Description" value=""/>
+    <taggedValue xmi:id="_pOWhxGO_Ee6wvbS-9gFBOA" tag="Author" value=""/>
+    <taggedValue xmi:id="_pOWhxWO_Ee6wvbS-9gFBOA" tag="otherParameter"/>
+    <taggedValue xmi:id="_pPTkAGO_Ee6wvbS-9gFBOA" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_pPTkAWO_Ee6wvbS-9gFBOA" tag="DB ProductVersion" value="16.00.1050"/>
+    <taggedValue xmi:id="_pPTkAmO_Ee6wvbS-9gFBOA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_pN8SEmO_Ee6wvbS-9gFBOA" key="CONN_PARA_KEY_USERNAME" value=""/>
+    <parameters xmi:id="_h6OjgGQlEe630N23V5q7Ow" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_yBN1MGQlEe630N23V5q7Ow" name="Ecom_Sales_DM" dataManager="_pN8SEGO_Ee6wvbS-9gFBOA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_yBN1MWQlEe630N23V5q7Ow" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

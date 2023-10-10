@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_E5te0GQeEe630N23V5q7Ow" name="EcommerceInvetoryDataMart" id="_8vqOgGQdEe630N23V5q7Ow" label="EcommerceInvetoryDataMart" dataPackage="_E825cGQeEe630N23V5q7Ow" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://LAPTOP-VQCV01FE:1433/Ecom_Inventory_DM;" dbVersionString="JTDS" Port="1433" Username="" Password="" ServerName="LAPTOP-VQCV01FE" DatasourceName="" FileFieldName="" SID="Ecom_Inventory_DM" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+    <taggedValue xmi:id="_E5te0WQeEe630N23V5q7Ow" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_E6VJ4GQeEe630N23V5q7Ow" tag="package filter" value=""/>
+    <taggedValue xmi:id="_E6YNMGQeEe630N23V5q7Ow" tag="Status" value=""/>
+    <taggedValue xmi:id="_E6YNMWQeEe630N23V5q7Ow" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_E6YNMmQeEe630N23V5q7Ow" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_E6YNM2QeEe630N23V5q7Ow" tag="Description" value=""/>
+    <taggedValue xmi:id="_E6YNNGQeEe630N23V5q7Ow" tag="Author" value=""/>
+    <taggedValue xmi:id="_E6YNNWQeEe630N23V5q7Ow" tag="otherParameter"/>
+    <taggedValue xmi:id="_E7EJsGQeEe630N23V5q7Ow" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_E7EwwGQeEe630N23V5q7Ow" tag="DB ProductVersion" value="16.00.1050"/>
+    <taggedValue xmi:id="_E7EwwWQeEe630N23V5q7Ow" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_E5te0mQeEe630N23V5q7Ow" key="CONN_PARA_KEY_USERNAME" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_E825cGQeEe630N23V5q7Ow" name="Ecom_Inventory_DM" dataManager="_E5te0GQeEe630N23V5q7Ow">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_E825cWQeEe630N23V5q7Ow" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
